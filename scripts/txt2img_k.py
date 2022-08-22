@@ -1,4 +1,5 @@
 import argparse, os, sys, glob
+sys.path.append("/content/drive/MyDrive/StableRun/stable-diffusion")
 import torch
 import torch.nn as nn
 import numpy as np
